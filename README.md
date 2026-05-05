@@ -60,31 +60,42 @@ I'm a **WordPress Developer** from **Bangladesh 🇧🇩** with **3+ years of ex
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-### 🌐 Languages
+<h3 align="center">🌐 Languages & Core</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,bash&theme=dark" />
 </p>
 
-### 🚀 Frameworks
+<h3 align="center">🚀 Frameworks & Libraries</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,react,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap,vite&theme=dark" />
 </p>
 
-### 🛒 CMS
+<h3 align="center">🛒 CMS & Website Builders</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 </p>
 
-### ⚙️ Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCart-24AAE1?style=flat-square&logo=opencart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white" />
+</p>
+
+<h3 align="center">💾 Databases & Caching</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite&theme=dark" />
+</p>
+
+<h3 align="center">☁️ DevOps, Tools & OS</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,nginx,docker,aws,postman,linux,windows&theme=dark" />
 </p>
 
 ---
 
-## 🤖 AI Development
+<h2 align="center">🤖 AI-Assisted Development</h2>
 
 <div align="center">
 
