@@ -11,6 +11,7 @@
 <br/>
 
 <a href="https://jahidul.grocoder.net"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=web&logoColor=3b82f6"/></a>
+<a href="https://www.linkedin.com/in/md-jahidul-islam-sabuz-174b511ab/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sobuz0349@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/coderjahidul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -242,16 +243,37 @@ I am a **Specialized WordPress Developer** currently expanding my horizons into 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderjahidul&theme=react-dark&area=true&hide_border=true&bg_color=0f172a&title_color=3b82f6&color=3b82f6" width="100%" />
 </div>
-## 📫 Contact
-
-- 📧 **sobuz0349@gmail.com**
-- 🌐 **https://jahidul.grocoder.net**
 
 ---
+## 🎓 Education & Training
+
+- 🏫 **Higher Secondary Certificate (HSC)** — Nawab Faizunnessa Govt. College *(2016 – 2017)*
+
+- 🏫 **Secondary School Certificate (SSC)** — N.F. & B.N. High School *(2014 – 2015)*
+
+- 💻 **WordPress Design & Development** — SoftTech-IT Institute *(2019 – 2021)*
+  *Theme Development · Plugin Development · Performance Optimization · Real-world Projects*
 
 <div align="center">
 
-⭐ *Building modern web apps with clean code & AI power*
+## 🌍 Let's Connect
+
+<a href="https://jahidul.grocoder.net"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0f172a?style=for-the-badge&logo=web&logoColor=3b82f6"/></a>
+<a href="https://www.linkedin.com/in/md-jahidul-islam-sabuz-174b511ab/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sobuz0349@gmail.com"><img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
+<br/>
+
+*Open to freelance projects, collaborations, and full-time opportunities.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=coderjahidul&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer"/>
 
