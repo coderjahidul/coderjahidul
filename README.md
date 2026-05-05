@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=250&section=header&text=Hi%20👋%20I'm%20Jahidul%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Developer%20|%20Full%20Stack%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://jahidul.grocoder.net">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=WordPress+Expert+⚡;Laravel+%2B+React+Developer;AI-Assisted+Development+🤖;3%2B+Years+Experience;CodeCanyon+Author" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=WordPress+Expert+⚡;Laravel+%2B+React+%2B+Vue;Full+Stack+Developer;AI-Assisted+Development+🤖;3%2B+Years+Experience" />
 </a>
 
 <br/>
@@ -22,13 +22,13 @@
 
 ## 👋 About Me
 
-I'm a **WordPress Developer** from **Bangladesh 🇧🇩** with **3+ years of experience** building scalable web solutions.
+I am a **Specialized WordPress Developer** currently expanding my horizons into **Laravel & React Full-Stack Development**. With over **3+ years of experience**, I specialize in building high-performance web solutions that combine CMS flexibility with modern application architecture and **AI-powered automation**.
 
-- 🏢 Working at **ImjolIT (2023 – Present)**
-- 🚀 Built **Laravel + React Full Stack Project**
-- 🛒 Published products on **CodeCanyon & WordPress.org**
-- 🤖 Using **AI tools** to build faster & smarter
-- ⚡ Focused on **performance, clean code & scalability**
+- 🏗️ **Core Expertise**: Advanced WordPress Theme & Plugin Development.
+- 🚀 **Full-Stack Focus**: Developing robust applications with **Laravel + React / Next.js**.
+- 🛒 **Product Creator**: Published successful products on **CodeCanyon & WordPress.org**.
+- 🏢 Currently crafting digital solutions at **ImjolIT (2023 – Present)**.
+- 🤖 **AI & Automation:** Leveraging **AI workflows using n8n, OpenAI, Gemini, and Claude** for high-quality delivery
 
 <br/>
 
@@ -52,9 +52,13 @@ I'm a **WordPress Developer** from **Bangladesh 🇧🇩** with **3+ years of ex
 
 <div align="center">
 
-| 🏆 Experience | 🛒 Platforms | 🤖 AI Tools | 🚀 Projects |
-|:---:|:---:|:---:|:---:|
-| **3+ Years** | WordPress · Shopify | Claude · Cursor | Laravel + React |
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Experience-3+_Years-3b82f6?style=for-the-badge&logo=clock&logoColor=white" /> | <img src="https://img.shields.io/badge/CMS_Expertise-WordPress-3b82f6?style=for-the-badge&logo=wordpress&logoColor=white" /> | <img src="https://img.shields.io/badge/App_Stack-Laravel_/_React-3b82f6?style=for-the-badge&logo=laravel&logoColor=white" /> |
+
+| | |
+| :---: | :---: |
+| <img src="https://img.shields.io/badge/AI_Workflow-Claude_/_Cursor-3b82f6?style=for-the-badge&logo=anthropic&logoColor=white" /> | <img src="https://img.shields.io/badge/Automation-n8n_%2B_AI-3b82f6?style=for-the-badge&logo=n8n&logoColor=white" /> |
 
 </div>
 
@@ -110,13 +114,13 @@ I'm a **WordPress Developer** from **Bangladesh 🇧🇩** with **3+ years of ex
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=coderjahidul&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=coderjahidul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjahidul&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjahidul&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=ffffff" />
 
-</div>
+</p>
 
 ---
 
