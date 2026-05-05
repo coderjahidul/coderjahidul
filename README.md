@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=250&section=header&text=Hi%20👋%20I'm%20Jahidul%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Developer%20|%20Full%20Stack%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://jahidul.grocoder.net">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=WordPress+Expert+⚡;Laravel+%2B+React+%2B+Vue;Full+Stack+Developer;AI-Assisted+Development+🤖;6%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=WordPress+Expert+⚡;Laravel+%2B+React+%2B+Vue;Full+Stack+Developer;AI-Assisted+Development+🤖;5%2B+Years+Experience" />
 </a>
 
 <br/>
