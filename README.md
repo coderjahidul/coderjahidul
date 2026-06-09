@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=220&section=header&text=Jahidul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20WordPress%20%26%20Elementor%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=220&section=header&text=Jahidul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20WordPress%20and%20Elementor%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
