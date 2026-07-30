@@ -158,6 +158,8 @@ Beyond WordPress, I work with **Laravel** and **React** for full-stack applicati
       <td><b>PVAMarkets</b> — Custom WordPress business platform</td>
       <td align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
         <img src="https://img.shields.io/badge/Custom_Development-0f172a?style=flat-square"/>
       </td>
       <td align="center">
@@ -169,6 +171,7 @@ Beyond WordPress, I work with **Laravel** and **React** for full-stack applicati
       <td align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
       </td>
       <td align="center">
         <a href="https://github.com/coderjahidul/woocommerce-profit-accounting"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -178,6 +181,7 @@ Beyond WordPress, I work with **Laravel** and **React** for full-stack applicati
       <td><b>Reseller Management</b> — Multi-reseller WooCommerce platform</td>
       <td align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
         <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
       </td>
       <td align="center">
@@ -204,6 +208,28 @@ Beyond WordPress, I work with **Laravel** and **React** for full-stack applicati
       <td align="center">
         <a href="https://zamzamcanada.com/"><img src="https://img.shields.io/badge/Live-3b82f6?style=flat-square&logo=googlechrome&logoColor=white"/></a>
         <a href="https://github.com/tdottahmed/zam-zam"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Fraud Checker BD</b> — Fraud detection system</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coderjahidul/fraud-checker-bd"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>My Abandoned Cart</b> — WooCommerce abandoned cart recovery plugin</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coderjahidul/my-abandoned-cart"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </td>
     </tr>
   </tbody>
