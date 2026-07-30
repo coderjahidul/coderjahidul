@@ -204,6 +204,7 @@ Beyond WordPress, I work with **Laravel** and **React** for full-stack applicati
       <td align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </td>
       <td align="center">
         <a href="https://zamzamcanada.com/"><img src="https://img.shields.io/badge/Live-3b82f6?style=flat-square&logo=googlechrome&logoColor=white"/></a>
